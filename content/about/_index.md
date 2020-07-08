@@ -4,7 +4,7 @@ date: 2020-07-07T12:02:20+01:00
 draft: false
 ---
 
-# Architectural theme:
+# Architecture:
 
 ![Drawing 1](Mosque.jpeg)
 
@@ -12,7 +12,11 @@ draft: false
 - **Date:** Mar 2020
 - **Size:** A3
 - **Style:** Drawn and coloured with pencils
+-**Time spent creating:** I did this over around 2 weeks spending a few hours each day with a few breaks. (Colouring the sky took a long time!)
 
 ![Drawing 5](Mosquezoom.jpeg)
 
+![Drawing 6](Mosquestart.jpeg) 
+
+![Drawing 7](Mosquebasic.jpeg)
 
