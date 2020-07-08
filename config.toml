@@ -36,7 +36,7 @@ enableRobotsTXT = true
   featured_image = ""
   recent_posts_number = 2
 
-  [markup]
+[markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
