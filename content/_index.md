@@ -7,9 +7,9 @@ draft: false
 # WELCOME!:
 Welcome to my website, where you can find my creative work from drawings and art, to hopefully photography and more in the future!
 
-Hopefully by doing this it allows me to monitor how my drawings change and inspire any new pieces i create!
+Hopefully by doing this it allows me to monitor how my drawings change and inspire any new pieces I create!
 
 ![Drawing 4](Drawings.jpeg)
 
-Here's a small selection of my drawings which i will share properly in the ain the different themed sections you cna find above. 
+Here's a small selection of my drawings which i will share properly in the different themed sections you can find above. 
 
