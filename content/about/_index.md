@@ -13,5 +13,6 @@ draft: false
 - **Size:** A3
 - **Style:** Drawn and coloured with pencils
 
+![Drawing 5](Mosquezoom.jpeg)
 
 

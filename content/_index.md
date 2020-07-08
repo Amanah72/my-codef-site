@@ -1,5 +1,5 @@
 ---
-title: "Amana's Artwork"
+title: "Amz's Artwork"
 date: 2020-07-07T11:06:23+01:00
 draft: false
 ---
