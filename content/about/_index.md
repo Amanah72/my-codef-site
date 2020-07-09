@@ -25,5 +25,11 @@ draft: false
 *This last image shows the finished drawing in black and white before adding any colour. I was quite scared to add colour, as once i added it i wouldn't be able to go back and it might have ruined it, but fortunately i think it worked out.*
 
 ![Drawing 8](Eiddrawing.jpeg)
+Heres is another drawing i did. It is one of the first A3 drawings i made, which i created in one of the school summer holidays when i had lots of spare time. My favourite part is the lantern design which acts as a light in the dark image. 
+- **Date:** 
+- **Size:** A3
+- **Style:** Drawn and coloured in pencil
+
+![Drawing 9](Eidzoom.jpeg)
 
 
