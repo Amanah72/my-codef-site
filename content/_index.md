@@ -1,10 +1,10 @@
 ---
-title: "Amz's Artwork"
+title: "AMZ'S ARTWORK"
 date: 2020-07-07T11:06:23+01:00
 draft: false
 ---
 
-# WELCOME!:
+# WELCOME:
 Welcome to my website, where you can find my creative work from drawings and art, to hopefully photography and more in the future!
 
 Hopefully by doing this it allows me to monitor how my drawings change and inspire any new pieces I create!

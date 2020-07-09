@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "/logocolour.jpeg"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
