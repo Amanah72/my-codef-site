@@ -37,6 +37,7 @@ draft: false
 - **Date:** Summer 2017
 - **Size:** A3
 - **Style:** Drawn and coloured in pencil
+- **Time spent creating:**
 
 ![Drawing 9](lantern.jpeg)
 

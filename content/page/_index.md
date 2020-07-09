@@ -14,6 +14,7 @@ draft: false
 - **Date:** around 2017
 - **Size:** A3
 - **Style:** Drawn and coloured with pencils 
+- **Time spent creating:**
 
 -----------------------------
 # Drawing 4:
@@ -24,6 +25,7 @@ draft: false
 - **Date:** around 2018
 - **Size:** A3
 - **Style:** Drawn and coloured with pencils
+- **Time spent creating:**
 -----------------------------
 # Drawing 5:
 
@@ -33,3 +35,4 @@ draft: false
 - **Date:** around 2018
 - **Size:** A3
 - **Style:** Drawn and coloured with pencils
+- **Time spent creating:**
