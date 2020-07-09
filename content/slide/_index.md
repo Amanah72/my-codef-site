@@ -8,3 +8,6 @@ draft: false
 
 ![Drawing 11](abstract.jpeg)
 
+![Drawing 12](car.jpeg)
+
+
