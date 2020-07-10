@@ -6,13 +6,13 @@ draft: false
 
 # -----------Architecture:------------
 
-# Drawing 1
+# Drawing 1:
 ![Drawing 1](Mosque.jpeg)
 
 *This was drawn at the start of lockdown. It is a drawing of the Sheikh Zayed Mosque in Abu Dhabi - the capital of the United Arab Emirates. The marble white tiles of the mosque boldly contrast with the bright blue sky which is one of its most beautfiul features.*
 - **Date:** Mar 2020
 - **Size:** A3
-- **Style:** Drawn and coloured with pencils
+- **Style:** HB pencil and Crayola colouring pencils
 - **Time spent creating:** I did this over around 2 weeks spending a few hours each day with a few breaks. (Colouring the sky took a long time!)
 
 ![Drawing 5](zoom.jpeg)
@@ -33,11 +33,11 @@ draft: false
 
 ![Drawing 8](Eiddrawing.jpeg)
 
-*Heres is another drawing i did. It is one of the first A3 drawings i made, which i created in one of the school summer holidays when i had lots of spare time. My favourite part is the lantern design which acts as a light in the dark image.As you can see this isn't my best drawing - the colouring isn't the best and more tiem could have been spent drawing more intricate details - but practise makes perfect!*
+*Heres is another drawing i did. It isn't a drawing of a specific mosque instead a general silhouette. It is one of the first A3 drawings i made, which i created in one of the school summer holidays when i had lots of spare time. My favourite part is the lantern design which acts as a light in the dark image.This isn't my best drawing - the colouring isn't the best and more time could have been spent drawing more intricate details - but practise makes perfect!*
 - **Date:** Summer 2017
 - **Size:** A3
-- **Style:** Drawn and coloured in pencil
-- **Time spent creating:**
+- **Style:** HB pencil and Crayola colouring pencils
+- **Time spent creating:** around 3 hours
 
 ![Drawing 9](lantern.jpeg)
 
