@@ -17,12 +17,12 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/logocolour.jpg"
   site_logo = "/logocolour.jpg"
   description = "A collection of creativity in one place!"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  twitter = ""
+  instagram = "https://www.instagram.com/"
   youtube = ""
   github = ""
   gitlab = ""
