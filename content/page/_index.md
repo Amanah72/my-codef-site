@@ -39,3 +39,6 @@ draft: false
 - **Size:** A3
 - **Style:** HB pencil and Crayola colouring pencils
 - **Time spent creating:** around 5 hours
+
+![Drawing 13](mickey.jpeg)
+
