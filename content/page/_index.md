@@ -39,6 +39,14 @@ draft: false
 - **Size:** A3
 - **Style:** HB pencil and Crayola colouring pencils
 - **Time spent creating:** around 5 hours
-
+-----------------------------
+# Drawing 6:
 ![Drawing 13](mickey.jpeg)
+
+*I didn't really complete this piece, as i did it for fun, but since it was part of the collection i've uploaded it*
+- **Date:** 2017
+- **Size:** A3
+- **Style:** HB pencil 
+- **Time spent creating:** can't remember
+
 
