@@ -8,3 +8,5 @@ draft: false
 
 This photograph is part of Wellington College located in Crowthorne,UK. During a McKinsey residential I stayed here. 
 **Date taken:** Early July 2019
+
+![Drawing 15](Wellington.jpeg)
