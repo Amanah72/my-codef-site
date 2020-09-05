@@ -10,3 +10,5 @@ This photograph is part of Wellington College located in Crowthorne,UK. During a
 **Date taken:** Early July 2019
 
 ![Drawing 15](Wellington.jpg)
+
+![Drawing 16](Londonsky.jpg)
