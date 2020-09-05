@@ -12,3 +12,5 @@ This photograph is part of Wellington College located in Crowthorne,UK. During a
 ![Drawing 15](Wellington.jpg)
 
 ![Drawing 16](Londonsky.jpg)
+
+![Drawing 17](Londonbridge.jpg)
