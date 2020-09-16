@@ -43,3 +43,5 @@ draft: false
 
 *And here's a zoomed in image of the lantern!- yes the colours seem really dark but i really did colour using normal pencils (but pressed really hard to make it darker and vibrant)*
 
+![Drawing 10](Rohtas.jpg)
+
