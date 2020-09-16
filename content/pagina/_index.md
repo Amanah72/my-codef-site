@@ -25,5 +25,7 @@ This was during a boat party, and again the view was so good!
 
 ![Drawing 18](Stpauls.jpg)
 
-This is St Pauls Cathedral,from the window of a car. It was really quiet with not many people, so a perfect opportunity to take a photo.
+This is St Pauls Cathedral,from the window of a car. It was really quiet with not many people, so a perfect opportunity to take a photo. 
 **Date taken:** June 2019
+
+![Drawing 19](sky.jpg) 
